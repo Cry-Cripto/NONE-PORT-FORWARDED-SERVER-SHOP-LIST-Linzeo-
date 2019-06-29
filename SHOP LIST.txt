@@ -10,7 +10,7 @@
 1156; Thief Top 40.00
 1157; Thief Bottom 30.00
 1240; Detonator 25.00
-1271; Filter 50.00
+1271; Filter 25.00
 1431; Upgraded Cake 400.00
 73; Raw Explosive 15.00
 1208; Rain Barrel 35.00
