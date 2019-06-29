@@ -1,0 +1,28 @@
+13; Canned Beans 2.00
+14; Bottled Water 2.00
+17; Military Drum 250.00
+43; Low Caliber Military Ammunition Crate 20.00
+44; Low Caliber Civilian Ammunition Box 5.00
+75; Chemicals 10.00
+76; Blowtorch 15.00
+81; MRE 10.00
+119; Low Caliber Ranger Ammunition Box 15.00
+1156; Thief Top 40.00
+1157; Thief Bottom 30.00
+1240; Detonator 25.00
+1271; Filter 50.00
+1431; Upgraded Cake 400.00
+73; Raw Explosive 15.00
+1208; Rain Barrel 35.00
+
+-------------------------------------------------------------
+
+30; (RED) Sedan 100.00
+53; APC 500.00
+73; (WHITE) Quad 150.00
+80; (ORANGE) Racecar 750.00
+88; Desert Jeep 75.00
+99; (BLUE) Jetski 50.00
+107; Hummingbird 1,000.00
+140; Fighter Jet 5,000.00
+1800; (RED) Glider 49.5
