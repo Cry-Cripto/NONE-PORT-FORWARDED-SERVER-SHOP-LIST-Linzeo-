@@ -14,7 +14,8 @@
 1431; Upgraded Cake 400.00
 73; Raw Explosive 15.00
 1208; Rain Barrel 35.00
-
+1800; (RED) Glider 655.00
+3097; Energy Cell 20.00
 -------------------------------------------------------------
 
 30; (RED) Sedan 100.00
@@ -25,4 +26,3 @@
 99; (BLUE) Jetski 50.00
 107; Hummingbird 1,000.00
 140; Fighter Jet 5,000.00
-1800; (RED) Glider 49.5
